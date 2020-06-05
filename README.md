@@ -1,0 +1,2 @@
+# gloacademy-distance
+training project
